@@ -1,5 +1,5 @@
 /* ================================================================
-   BAKERZ BITE — MAIN JAVASCRIPT
+   OBAWA BAKERY — MAIN JAVASCRIPT
    Single Page Application Logic
    ================================================================ */
 
@@ -55,22 +55,22 @@ function getAllProducts() {
 
 const TESTIMONIALS = [
   {
-    name: 'Adaeze Nwosu',  role: 'Regular Customer',  rating: 5,
+    name: 'Obawa Veronica',  role: 'Premium Customer',  rating: 5,
     avatar: 'https://cdn.pixabay.com/photo/2017/08/01/08/29/woman-2563491_640.jpg',
     text: 'The best bakery in Lagos! Their Red Velvet Cake is absolutely divine. I order from them every single weekend.'
   },
   {
-    name: 'Emeka Obi',     role: 'Corporate Client',   rating: 5,
+    name: 'Umeobi Stanley',     role: 'Corporate Client',   rating: 5,
     avatar: 'https://cdn.pixabay.com/photo/2016/11/21/12/42/beard-1845166_640.jpg',
     text: 'Bakerz Bite catered for our office event and everyone was completely blown away. Professional service and incredible food!'
   },
   {
-    name: 'Fatima Aliyu',  role: 'Food Blogger',       rating: 5,
+    name: 'Ibrahim Oyiza',  role: 'Food Blogger',       rating: 5,
     avatar: 'https://cdn.pixabay.com/photo/2018/04/27/03/50/portrait-3353699_640.jpg',
     text: 'As a food blogger, I have tried bakeries across the country. Bakerz Bite consistently delivers the absolute best quality.'
   },
   {
-    name: 'Chidi Okafor',  role: 'Birthday Customer',  rating: 5,
+    name: 'Frank Chike',  role: 'Birthday Customer',  rating: 5,
     avatar: '../assets/images/chidi.jpg',
     text: 'Ordered a custom birthday cake and it was beyond my expectations. Beautiful, absolutely delicious, and perfectly on time!'
   },
